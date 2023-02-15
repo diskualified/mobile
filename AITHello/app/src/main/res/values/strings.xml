@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AITHello</string>
+    <string name="buttonShow">Show time</string>
+</resources>
