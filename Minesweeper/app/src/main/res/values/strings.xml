@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="instructions">Don\'t step on a mine or flag a safe space! Win by flagging ALL mines</string>
+    <string name="winmsg">You Win!!</string>
+    <string name="lossmsg">You Lost :( Reset to try again</string>
+</resources>
